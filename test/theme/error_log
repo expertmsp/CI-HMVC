@@ -1,0 +1,1 @@
+[08-Mar-2017 04:49:35 UTC] PHP Fatal error:  Call to undefined function get_header() in /data/home/rtcisinl/public_html/p4p-wp/wp-content/themes/p4p/single-services.php on line 10

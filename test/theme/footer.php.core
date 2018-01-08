@@ -1,0 +1,118 @@
+<br />
+<div class="row">
+    <div class="container">  
+        <h2>Our Members & Partners</h2>
+        <a href="">Read More</a>
+
+        <br />
+    </div>
+    <div id="memberSlide" class="carousel slide">
+        <div class="container">    
+
+            <!-- Carousel items -->
+
+
+            <div class="carousel-inner">
+
+                <div class="item active">
+                    <div class="row-fluid">
+                        <div class="col-xs-12 col-sm-6 col-md-15"><a href="#x" class="img-center"><img src="http://placehold.it/150x150" alt="Image" style="max-width:100%;" /></a></div>
+                        <div class="hidden-xs col-sm-6 col-md-15"><a href="#x" class="img-center"><img src="http://placehold.it/150x150" alt="Image" style="max-width:100%;" /></a></div>
+                        <div class="hidden-xs hidden-sm col-md-15"><a href="#x" class="img-center"><img src="http://placehold.it/150x150" alt="Image" style="max-width:100%;" /></a></div>
+                        <div class="hidden-xs hidden-sm col-md-15"><a href="#x" class="img-center"><img src="http://placehold.it/150x150" alt="Image" style="max-width:100%;" /></a></div>
+                        <div class="hidden-xs hidden-sm col-md-15"><a href="#x" class="img-center"><img src="http://placehold.it/150x150" alt="Image" style="max-width:100%;" /></a></div>
+                    </div><!--/row-fluid-->
+                </div><!--/item-->
+                <div class="item ">
+                    <div class="row-fluid">
+                        <div class="col-xs-12 col-sm-6 col-md-15"><a href="#x" class="img-center"><img src="http://placehold.it/150x150" alt="Image" style="max-width:100%;" /></a></div>
+                        <div class="hidden-xs col-sm-6 col-md-15"><a href="#x" class="img-center"><img src="http://placehold.it/150x150" alt="Image" style="max-width:100%;" /></a></div>
+                        <div class="hidden-xs hidden-sm col-md-15"><a href="#x" class="img-center"><img src="http://placehold.it/150x150" alt="Image" style="max-width:100%;" /></a></div>
+                        <div class="hidden-xs hidden-sm col-md-15"><a href="#x" class="img-center"><img src="http://placehold.it/150x150" alt="Image" style="max-width:100%;" /></a></div>
+                        <div class="hidden-xs hidden-sm col-md-15"><a href="#x" class="img-center"><img src="http://placehold.it/150x150" alt="Image" style="max-width:100%;" /></a></div>
+                    </div><!--/row-fluid-->
+                </div><!--/item-->
+                <div class="item ">
+                    <div class="row-fluid">
+                        <div class="col-xs-12 col-sm-6 col-md-15"><a href="#x" class="img-center"><img src="http://placehold.it/150x150" alt="Image" style="max-width:100%;" /></a></div>
+                        <div class="hidden-xs col-sm-6 col-md-15"><a href="#x" class="img-center"><img src="http://placehold.it/150x150" alt="Image" style="max-width:100%;" /></a></div>
+                        <div class="hidden-xs hidden-sm col-md-15"><a href="#x" class="img-center"><img src="http://placehold.it/150x150" alt="Image" style="max-width:100%;" /></a></div>
+                        <div class="hidden-xs hidden-sm col-md-15"><a href="#x" class="img-center"><img src="http://placehold.it/150x150" alt="Image" style="max-width:100%;" /></a></div>
+                        <div class="hidden-xs hidden-sm col-md-15"><a href="#x" class="img-center"><img src="http://placehold.it/150x150" alt="Image" style="max-width:100%;" /></a></div>
+                    </div><!--/row-fluid-->
+                </div><!--/item-->
+
+            </div><!--/carousel-inner-->
+
+            <a class="left carousel-control" href="#memberSlide" data-slide="prev"><i style="
+                                                                                      padding-top: 65px;
+                                                                                      "class="fa fa-chevron-left fa-x2"></i></a>
+            <a class="right carousel-control" href="#memberSlide" data-slide="next"><i style="
+                                                                                       padding-top: 65px;
+                                                                                       "class="fa fa-chevron-right fa-x2"></i></a>
+        </div><!--/myCarousel-->
+
+    </div><!--/well-->   
+
+</div>
+
+<footer>
+    <div class="container">
+        <div class="footer-top row">
+            <h2 class="left">Moving Forward together.</h2>
+            <div class="right">
+                <a href=""><i class="icon-p4p-facebook"></i></a>
+                <a href=""><i class="icon-p4p-twitter"></i></a>
+                <a href=""><i class="icon-p4p-linkedin"></i></a>
+            </div>
+        </div>
+        <div class="footer-main row">
+            <ul class="col-xs-12 col-sm-6 col-md-3 list-unstyled">
+                <li class="title">About Us</li>
+                <li><a href="/about-pilbara-for-purpose">About Pilbara for Purpose</a></li>
+                <li><a href="/about-pilbara-for-purpose/about-membership">Membership</a></li>
+                <li><a href="/about-pilbara-for-purpose/our-members">Our Members</a></li>
+                <li><a href="/about-pilbara-for-purpose/partners">Partner Organisations</a></li>
+
+            </ul>
+
+            <ul class="col-xs-12 col-sm-6 col-md-3 list-unstyled">
+                <li class="title">Community</li>
+                <li><a href="/news-room">News</a></li>
+                <li><a href="/events">Events</a></li>
+                <li><a href="/about-pilbara-for-purpose/our-members">Our Members</a></li>
+            </ul>
+            <ul class="col-xs-12 col-sm-6 col-md-3 list-unstyled">
+                <li class="title">Member Resources</li>
+                <li><a href="/forum">Forums</a></li>
+                <li><a href="/publications">Publications</a></li>
+                <li><a href="/about-pilbara-for-purpose/our-members/service-areas">Service Areas</a></li>
+            </ul>
+            <div class="col-xs-12 col-sm-6 col-md-3 logo">
+                <i class="icon-p4p-pilbaraforpurpose"></i>
+                <h2>Pilbara for Purpose</h2>
+            </div>
+        </div>
+        <div class="footer-bottom row">
+            <div class="copyright">
+                © Copyright Pilbara for Purpose 2016. All rights reserved.
+            </div>
+            <ul class="links list-unstyled list-inline">
+                <li><a href="/about/terms">Terms of Use</a></li>
+                <li><a href="/about/terms#privacy">Privacy Policy</a></li>
+                <li><a href="/about/terms#disclaimer">Disclaimer</a></li>
+            </ul>
+            <div class="byShiny">
+                Site By Shiny Ideas
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+<script data-main="<?php echo get_bloginfo('template_directory'); ?>/js/main.min" src="<?php echo get_bloginfo('template_directory'); ?>/bower_components/requirejs/require.js"></script>
+
+
+</body>
+</html>

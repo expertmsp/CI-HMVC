@@ -1,0 +1,43 @@
+<?php
+
+/**
+ * Single Topic Content Part
+ *
+ * @package bbPress
+ * @subpackage Theme
+ */
+
+?>
+<style>
+    .blog-title{ display: none;} 
+</style>
+<?php 
+
+    $forumid = bbp_get_forum_id();
+    $image = get_field('forum_image',$forumid);?>
+    <div class="forums-img-m"><img style="" src="<?php echo $image['url'] ?>" /></div>
+	<?php do_action( 'bbp_template_before_single_topic' ); ?>
+	<?php if ( post_password_required() ) : ?>
+		<?php bbp_get_template_part( 'form', 'protected' ); ?>
+	<?php else : ?>
+		<?php if ( bbp_show_lead_topic() ) : ?>
+
+			<?php bbp_get_template_part( 'content', 'single-topic-lead' ); ?>
+
+		<?php endif; ?>
+
+		<?php if ( bbp_has_replies() ) : ?>
+
+			<?php bbp_get_template_part( 'pagination', 'replies' ); ?>
+
+			<?php bbp_get_template_part( 'loop',       'replies' ); ?>
+
+			
+
+		<?php endif; ?>
+
+		<?php bbp_get_template_part( 'form', 'reply' ); ?>
+
+	<?php endif; ?>
+
+	<?php do_action( 'bbp_template_after_single_topic' ); ?>
